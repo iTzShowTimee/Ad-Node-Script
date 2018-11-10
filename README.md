@@ -112,7 +112,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***Step 8***
 * Paste the code below into the Bitvise terminal then press enter
 
-`bash add-install.sh`
+`bash add_install.sh`
 
 ![Example-Bash](https://i.imgur.com/YIz5dA6.png)
 
