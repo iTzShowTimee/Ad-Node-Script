@@ -196,7 +196,8 @@ Click "File Save"
 ***step 4***
 * Check the status of your masternode within the VPS by using the command below:
 
-`carebitcoin-cli masternode status`
+`add-cli masternode status`
+`add-cli getinfo`
 
 *You should see ***status 4***
 
