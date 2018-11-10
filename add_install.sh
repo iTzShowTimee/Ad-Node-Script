@@ -248,7 +248,7 @@ function important_information() {
  echo -e "${GREEN}add-cli getinfo. ${CYAN} Compare the Blocks line with the explorer to ensure the VPS is synced${NC}"
  echo -e "${GREEN}add-cli masternode status${NC}"
  echo -e "${BLUE}================================================================================================================================${NC}"
- echo -e "${GREEN} Shout out the Master Yoda whereever he may be, May for force be strong with him${NC}" 
+ echo -e "${GREEN} Shout out the Master Yoda where ever he may be, May for force be strong with him${NC}" 
 }
 
 function setup_node() {
