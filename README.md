@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/503345879835607060/510362962427641856/BannerForTwitter_V3.jpg"
+<img src=(https://cdn.discordapp.com/attachments/503345879835607060/510362962427641856/BannerForTwitter_V3.jpg)
 
 # AD Node Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a Ad Node Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
