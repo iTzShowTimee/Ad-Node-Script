@@ -114,7 +114,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 
 `bash add_install.sh`
 
-![Example-Bash](https://i.imgur.com/YIz5dA6.png)
+![Example-Bash](https://i.imgur.com/JDOBjgR.png)
 
 ***
 
