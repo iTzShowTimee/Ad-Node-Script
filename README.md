@@ -1,4 +1,4 @@
-!![Trunk-Logo](https://i.imgur.com/TYYenLV.png)
+![Trunk-Logo](https://i.imgur.com/TYYenLV.png)
 # Trunk Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a Trunk Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
