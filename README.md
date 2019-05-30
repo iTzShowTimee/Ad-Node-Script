@@ -102,13 +102,15 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/K6xlnav.png)
 
-`wget -q https://raw.githubusercontent.com/BitYaddle/Midas-Masternode-Script/master/midas_install.sh`
+`wget -q https://raw.githubusercontent.com/trunkcoin/MN-Script/master/trunk-mn.sh`
 ***
 
 ***Step 8***
 * Paste the code below into the Bitvise terminal then press enter
 
-`bash midas_install.sh`
+`sudo chmod +x trunk-mn.sh`
+
+`./trunk-mn.sh`
 
 ![Example-Bash](https://i.imgur.com/myvmKTE.png)
 
@@ -137,7 +139,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***
 
 ***Step 2***
-* Send EXACLY 1,000 Midas to a receive address within your wallet.
+* Send EXACLY 3,000 Trunk to a receive address within your wallet.
 ***
 
 ***Step 3***
