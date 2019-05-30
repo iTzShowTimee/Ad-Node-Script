@@ -106,7 +106,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***Step 7***
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 
-`wget -N https://raw.githubusercontent.com/iTzShowTimee/Ad-Node-Script/master/add_install.sh`
+`wget -q https://raw.githubusercontent.com/iTzShowTimee/Ad-Node-Script/master/add_install.sh`
 ***
 
 ***Step 8***
